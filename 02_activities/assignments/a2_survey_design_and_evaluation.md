@@ -44,35 +44,87 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this study is to better understand the causes behid the high turnover rate among entry and lower level employees. The study will also reveal possible areas for improvement in employee satisfaction, work environment and career advancement prospects.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: All current and recenlty departed entry and lower level employees at the company.
+
+Sampling Frame: A list of all entry and lower level employees from HR data including both current employees and those who have left the organization in the last six months.
+
+Sampling units: Individual employees (both current and former).
+
+Sampling Strategy: Stratified random sampling which ensures representation across departments and job functions in order to gather varied opinions. This will allow us to compare the turnover drivers of vaarious teams.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1. How long have/did you work at the company?
+    - Less than 6 months
+    - 6 months - 1 year
+    - 1 to 2 Year
+    - More than 2years
+
+2. Which department were/are you part of?
+
+3. What is the current employee status? 
+    - Left voluntarily
+    - was laid off or terminated
+    - Still employed here
+    - 
+4. Whate were/are the main factors influencing your decision to leave (or consider leaving)? You can select multiples option.
+     - Compensation
+     - Lack of growth opportunities
+     - Poor managment
+     - company culture
+     - lack of recongnition
+     - work life balance
+     - Other(please specify)_______
+
+5. On a scale of 1 to 10 (10 being higest), how likely would you recommend this company to a friend seeking a similar job?
+    -______
+
+6. Did your manager provide adequate support and feedback?
+    - Always
+    - Sometimes
+    - Rarely
+    - Never
+
+7. Any additional comments you would like to share? (Open-ended)
+    - 
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
 
 ```
-write your answer here
-```
+1. Sample type
+ - Cross sectional, stratified sample of individuals across 10 provinces
+2. Sample size
+ - Target 20,000 respondents.
+3. Target population
+- Individuals age 15 and older, in 10 provinces
+4. Sampling frame
+ - telephone including landlines, cellphones and add from census. Telephone number linked to address and then repondents aged 15 plus 
+5. Survey mode(s) 
+ - self administered online and telephone interviews
+6. Timeline
+ - sept 4 2018 to Dec 28, 2018
+7. Response rate
+ - rate 41.9%
+8. Weights
+ - uses design weights, calibrated to known totals by province age and sex
+9. Data processing
+ - Built into CATI and online systems to ensure valid reponses
+10. Cleaning, imputation, etc
+ - using extreme values and aggregating categories
+11. Sources of error
+ - exclude territories and some households lack phones
+12. Limitations, known biases, etc
+ - 42% response rate for some demo/geographic subgroups variability or bias is possible 
+13. Link to documentation and any additional sources used
+ - 150statcan.gc.ca, abacus.library.ubc.ca, volunteer.ca
 
 ## Rubric
 
